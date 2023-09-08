@@ -1,0 +1,7 @@
+- Hello world!
+- I'm XsoftBud
+- i like coding/programming
+- to conntact me just go to my website and type on the Messages icon or Lets Chat button.
+- You can always Give me ideas for My projects.
+- Bye World!
+- 👨‍💻👨‍💻👨‍💻👨‍💻
