@@ -24,6 +24,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/XsoftBud/XsoftBud/output/snake.svg" alt="Snake animation" />
+
 
 ###
