@@ -1,4 +1,5 @@
-![image](https://github.com/XsoftBud/XsoftBud/assets/127049334/c2025394-58a4-4be9-86df-021fa5918905)
+![image](https://github.com/XsoftBud/XsoftBud/assets/127049334/d5160d9a-b690-458c-8144-36bc92de2de0)
+
 
 
 
