@@ -1,3 +1,4 @@
-![image](https://github.com/XsoftBud/XsoftBud/assets/127049334/5ea78e10-59ec-4c9e-b097-c8988c5d7f9b)
+![image](https://github.com/XsoftBud/XsoftBud/assets/127049334/021e8ab2-d24c-4d9d-bbb7-56e5cd6d978d)
+
 
 "XSOFT: BELIEVE IN YOU!"
