@@ -1,4 +1,4 @@
-<p align="left">I'm XsoftBud. Welcome to my profile!</p>
+<p align="left">I'm XsoftBud. The main Boss of the ExSoft Tricksters!</p>
 
 ###
 
