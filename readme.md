@@ -3,12 +3,16 @@
 
 <p align="left">I'm XsoftBud. The main Boss of the ExSoft Tricksters!</p>
 
+I am also Classified as the top of the XOS C.S. (Xsoft OS Codename shadow shundo) 
+project. The participants are Ysoft, Zsoft, Xsoft Where I am working on the Operating system, Zsoft is working on the kernel and Ysoft is on the Boot Manager.
+
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XsoftBud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XsoftBud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=XsoftBud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-  />
+  
 </div>
 
 ###
