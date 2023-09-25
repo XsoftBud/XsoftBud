@@ -1,3 +1,6 @@
+![image](https://github.com/XsoftBud/XsoftBud/assets/127049334/059d1851-df96-40d3-98cc-82435e09d259)
+
+
 <p align="left">I'm XsoftBud. The main Boss of the ExSoft Tricksters!</p>
 
 ###
