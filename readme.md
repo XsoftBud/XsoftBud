@@ -1,43 +1,27 @@
-<summary>My most used languages</summary>
+# 🔲 About Me:
+I am XsoftBud, You can name me Pysoi!
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Bat File  |
-|     2| Vbscript  |
-|     3| Python    |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=XsoftBud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XsoftBud&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XsoftBud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=XsoftBud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 😎 Join the ExSoft Tricksters!
+supporting Ysoft, Zsoft, Xsoft Join the ExSoft Tricksters organization, and get cool things! 
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=XsoftBud&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+### Coding Meme:
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-> Believe in You!
+[![](https://visitcount.itsvg.in/api?id=XsoftBud&icon=0&color=6)](https://visitcount.itsvg.in)
 
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
