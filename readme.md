@@ -9,15 +9,15 @@ I am XsoftBud, You can name me Pysoi!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=XsoftBud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😎 Join the ExSoft Tricksters!
-supporting Ysoft, Zsoft, Xsoft Join the ExSoft Tricksters organization, and get cool things! 
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XsoftBud&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### Coding Meme:
+### 🤣 Random EXTRKS Coding Memes:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+### 💬 Chat on WhatsApp
+You can also chat on the ExSoft Tricksters group on whatsapp, instead of the "Buggy" Chat function on My Website.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XsoftBud&icon=0&color=6)](https://visitcount.itsvg.in)
