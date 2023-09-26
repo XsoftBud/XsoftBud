@@ -18,6 +18,9 @@ I am XsoftBud, You can name me Pysoi!
 
 ### 💬 Chat on WhatsApp
 You can also chat on the ExSoft Tricksters group on whatsapp, instead of the "Buggy" Chat function on My Website.
+You will also can talk to My Friends,
+Link to group: 
+https://chat.whatsapp.com/I6XVIyoc2Tu6A31wWEy57S
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XsoftBud&icon=0&color=6)](https://visitcount.itsvg.in)
