@@ -1,6 +1,11 @@
 # 🔲 About Me:
 I am XsoftBud, You can name me Pysoi!
 
+# ✅ My Best Projects:
+1. Xsoft OS (avaible on repo)
+2. Waves Social (avaible on my profile)
+3. Xculpo (avaible on repo)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XsoftBud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XsoftBud&theme=dark&hide_border=false)<br/>
