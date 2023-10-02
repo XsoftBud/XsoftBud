@@ -21,11 +21,22 @@ I am XsoftBud, You can name me Pysoi!
 ### 🤣 Random EXTRKS Coding Memes:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### 💬 Chat on WhatsApp
-You can also chat on the ExSoft Tricksters group on whatsapp, instead of the "Buggy" Chat function on My Website.
-You will also can talk to My Friends,
-Link to group: 
-https://chat.whatsapp.com/I6XVIyoc2Tu6A31wWEy57S
+### All My devices:
+iPhone 11
+Lenovo Windows 10 Home Laptop
+Vortex Desktop
+Vidaa Smart TV
+Xbox Series S
+iPad
+Sup Gameboy
+Brick Game
+kikkerland brick game
+Samsung galaxy A71
+Very Very old Huawei phone
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XsoftBud&icon=0&color=6)](https://visitcount.itsvg.in)
