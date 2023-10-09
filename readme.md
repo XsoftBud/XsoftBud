@@ -18,7 +18,7 @@ I am XsoftBud, You can name me Pysoi!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XsoftBud&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 🤣 Random EXTRKS Coding Memes:
+### 💀 Random Coding Memes:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### All My devices:
