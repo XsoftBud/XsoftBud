@@ -22,16 +22,48 @@ I am XsoftBud, You can name me Pysoi!
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### All My devices:
-iPhone 11,
-Lenovo Windows 10 Home Laptop,
-Vortex Desktop,
-Vidaa Smart TV,
-Xbox Series S,
-iPad,
-Sup Gameboy,
-Brick Game,
+iPhone 11
+
+
+
+
+Lenovo Windows 10 Home Laptop
+
+
+
+Vortex Desktop
+
+
+
+Vidaa Smart TV
+
+
+
+Xbox Series S
+
+
+
+iPad
+
+
+
+Sup Gameboy
+
+
+
+Brick Game
+
+
+
+
 kikkerland brick game,
+
+
+
 Samsung galaxy A71,
+
+
+
 Very Very old Huawei phone.
 
 
