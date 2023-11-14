@@ -1,5 +1,5 @@
 # 🔲 About Me:
-I am XsoftBud, You can call me Pysoi!
+I am XsoftBud, You can call me Pysoi, XsoftBuddy & PurpleMaster!
 
 # ✅ My Best Projects:
 1. Xsoft OS (avaible on repo)
