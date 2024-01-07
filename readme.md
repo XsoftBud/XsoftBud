@@ -1,5 +1,6 @@
 # 🔲 About Me:
-I am XsoftBud, You can call me Pysoi, XsoftBuddy & PurpleMaster!
+I am XsoftBud, You can call me Pysoi, XsoftBuddy & PurpleMaster!, i am the president of the micronation Republic of Com
+izaria and i make Batch File projects. 
 
 # ✅ My Best Projects:
 1. Xsoft OS (avaible on repo)
